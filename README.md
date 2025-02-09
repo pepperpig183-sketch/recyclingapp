@@ -82,5 +82,3 @@ While we implemented the front end for the feedback loop, we ended up not connec
 - [Tensorflow](https://www.tensorflow.org/) - for training the model and doing the prediction
 - [React Camera Pro](https://github.com/purple-technology/react-camera-pro) - for the camera
 
-
-Feel free to reach out to us at hi@alyssax.com, to [Alyssa](https://twitter.com/alyssaxuu) or [Leo](https://www.linkedin.com/in/leonorfurtado/) directly if you have any questions or feedback! Hope you find this useful 💜
